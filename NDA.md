@@ -1,5 +1,3 @@
-# NON-DISCLOSURE AGREEMENT
-
 1. Qualification of the Parties
 
 This Non-Disclosure Agreement ("Agreement") is entered between Ecommerce Project Management LLC, established at 8 The Green, Suite 14498, Dover, Delaware, 19901, United States ("Receiving Party"), and the "Disclosing Party", whose details are filled out at the end of this form.
